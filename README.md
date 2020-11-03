@@ -1,0 +1,2 @@
+# postal-index-number
+"Indian Postal Index Number" is an Action for Google Assistant where you can get to know the full details of a Postal number. Note that this support only for India. You can tell the postal code you want to get details of. It uses the API provided by the website http://www.postalpincode.in/. Due to the policy of Firebase function, which states that external APIs are not permitted for free plan, deployment of this action is not permitted. Please refer this link for more details https://firebase.google.com/pricing.
